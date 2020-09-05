@@ -5,7 +5,7 @@ iOS 개발을 공부중인 권민재 입니다.
 ## Contact
 Email. gommj0611@gmail.com
 
-Phone. 010-5835-8766
+Phone. 010-****-****
 
 --- 
 ## Channel.
